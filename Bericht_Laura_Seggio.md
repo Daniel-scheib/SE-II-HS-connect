@@ -12,5 +12,6 @@ Konzeptionierung der Seite um Beiträge hochzuladen
 
 Konzeptionierung der Einstellung-Seite
 
-
 Auswahl der verschiedenen Farben für Hintergründe, Buttons
+
+Erstellung mehrerer Logos, Auswahl des Logos
