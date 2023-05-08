@@ -18,3 +18,5 @@
 4. 22.04.2023
     1. Nachträge für Github Repository gepflegt
     2. Log In und Anmeldescreen erstellen
+5. 25.04.2023
+    1. Dark Mode erstellen
