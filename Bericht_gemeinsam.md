@@ -7,4 +7,6 @@
 
 16.04.2023:
     Teams-Meeting: Planung und Zuteilung der Tasks, Sammlung von Fragen
-hi
+
+11.06.2023:
+    Teams-Meeting: Besprechung für Milestone-Meeting
