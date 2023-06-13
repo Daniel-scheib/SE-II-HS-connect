@@ -20,3 +20,6 @@
     2. Log In und Anmeldescreen erstellen
 5. 25.04.2023
     1. Dark Mode erstellen
+6. 9.05.2023
+    1. Nachbesserungen im UI
+    2. Erstellen des Inhalts für die "Mein Profil" Seite
