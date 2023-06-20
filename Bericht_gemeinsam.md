@@ -10,3 +10,6 @@
 
 11.06.2023:
     Teams-Meeting: Besprechung für Milestone-Meeting
+
+20.06.2023:
+    Besprechung weiteres Vorgehen
