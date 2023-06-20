@@ -12,4 +12,8 @@
     Teams-Meeting: Besprechung für Milestone-Meeting
 
 20.06.2023:
-    Besprechung weiteres Vorgehen
+    Server läuft.
+
+    Fehlerbehebung in der Test-App
+
+    Besprechung weiteres Vorgehen zur Erstellung der App auf dem Server.
