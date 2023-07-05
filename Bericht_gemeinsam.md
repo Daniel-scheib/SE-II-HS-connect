@@ -23,3 +23,7 @@
     Besprechung Amelie Frick und Laura Seggio zur Übergabe des neu erstellten Projekts mit App auf VS Code.
 
     Besprechung weiteres Vorgehen für Tutoring am Dienstag (27.06.23). 
+
+05.07.2023:
+
+    Besprechung für Präsentation
