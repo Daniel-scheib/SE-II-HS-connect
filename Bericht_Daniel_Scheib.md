@@ -1,6 +1,11 @@
 # Bericht Daniel Scheib
 ---
-## Entwicklung Prototyp UI
+### Einführung
+Bei der anfänglichen Planung unseres Social Media Projektes war unser Ziel es die individuellen Stärken der Mitglieder Einzusetzen und so schnell und effektiv zu Ergebnissen zu kommen.
+---
+##Zeitlicher Ablauf
+---
+### Entwicklung Prototyp UI
 1. 19.04.2023 Beginn der Entwicklung
     1. Erstellen der Dokumente
     2. Header erstellen
