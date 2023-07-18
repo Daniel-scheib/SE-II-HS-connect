@@ -1,5 +1,5 @@
 # Bericht Daniel Scheib
----
+
 ### Einführung
 Bei der anfänglichen Planung unseres Social Media Projektes war unser Ziel es die individuellen Stärken der Mitglieder Einzusetzen und so schnell und effektiv zu Ergebnissen zu kommen.
 ---
