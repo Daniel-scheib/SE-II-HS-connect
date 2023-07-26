@@ -17,7 +17,7 @@ Bei der anfänglichen Planung unseres Social Media Projektes war unser Ziel es d
 
 Nach der Übermittlung der konkreten Designvorschläge meiner Kolleginnen habe ich gleich am 19.04.2023 mit der Erstellung der HTML und CSS Dateien begonnen. Einen besonderen Fokus legte ich auf responsives Webdesign, so dass das Layout möglichst übersichtlich auf jeder Bildschirmgröße angezeigt wird. Ein besonderer Freund hierbei sind relative Größenangaben, die eine immer gleiche Darstellung der Website garantieren. 
 
-Ebenso habe ich beim CSS versucht möglichst alles über externe Stylesheets und die Zuweisung von ID's und Klassen zu designen. Dies ermöglicht ein einfacheres Anpassen der zunächst statischen Website auf das dynamische generieren und anzeigen von Content durch die Nutzer.
+Ebenso habe ich beim CSS versucht möglichst alles über externe Stylesheets und die Zuweisung von ID's und Klassen zu designen. Dies ermöglicht ein einfacheres Anpassen der zunächst statischen Website auf das dynamische Generieren und Anzeigen von Content durch die Nutzer.
 
 ## Die Zusammenarbeit im Team
 Die Zusammenarbeit im Team empfand ich als sehr gut. Wir waren alle auf der gleichen Wellenlänge und haben alle gleichermaßen zur Findung, Planung und Umsetzung des Projekts beigetragen. Der Kontakt war stets mühelos und schnell über unseren Gruppeninternen Teamschat als auch über Gespräche im echten Leben.
