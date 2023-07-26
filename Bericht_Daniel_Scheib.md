@@ -3,7 +3,7 @@
 ## Einführung
 Unsere Gruppe hat sich das Ziel gesetzt, eine Social-Media-Anwendung zu erstellen, die genau auf das Anforderungsprofil von Hochschulen zugeschnitten ist. Sie soll sowohl die Kommunikation und das Kennenlernen unter Studenten fördern und ermöglichen, als auch eine Plattform zur Kommunikation zwischen der Hochschulleitung und den Studierenden bieten. 
 
-## Organisatorisches
+## Projektmanagement
 Natürlich war ich bei allen Team Meetings anwesend. In diesen Treffen planten wir das weitere Vorgehen. Wir haben diese nicht in regelmäßigen Abständen gehalten, da wir diese an den Lernfortschritt angepasst haben, wobei dies ein Punkt ist den ich im nächsten Projekt anders machen würde. Regelmäßigere Treffen hätten eventuell den Effekt gehabt, dass man schneller auf Ideen zum gemeinsamen Fortschritt kommt. In der Projektplanung haben wir uns alle drei gleichermaßen beteiligt, wobei es meiner Meinung nach einfacher und effizienter gewesen wäre eine Person zu bestimmen die den Großteil der Organisation und Planung übernimmt um eventuell anfallende Doppelarbeit zu verhindern. Wir haben uns jedoch dagegen entschieden, damit alle Mitglieder gleichermaßen Erfahrungen im technischen wie im organisatorischen Teil des Projekt sammeln. Gleich zu Beginn der Planungsphase war es uns wichtig mit Hilfe des Trello-Boards eine Anforderungsanalyse an die Features unserer Website zu verfassen. Unsere Intention war es die Features festzulegen um die Einteilung der Tasks effizienter anpassen zu können. In den weiteren Meetings wurde der Progress der einzelnen Mitglieder ebenso wie die nächsten Schritte zur erfolgreichen Fertigstellung unseres Projektes nötig sind besprochen.
 
 ## Technisches
