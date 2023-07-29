@@ -13,17 +13,12 @@
 
 20.06.2023:
     Server läuft.
-
     Fehlerbehebung in der Test-App
-
     Besprechung weiteres Vorgehen zur Erstellung der App auf dem Server.
 
 25.06.2023:
-
     Besprechung Amelie Frick und Laura Seggio zur Übergabe des neu erstellten Projekts mit App auf VS Code.
-
     Besprechung weiteres Vorgehen für Tutoring am Dienstag (27.06.23). 
 
 05.07.2023:
-
     Besprechung für Präsentation
